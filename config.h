@@ -3,6 +3,7 @@ static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{"",	"sb-music",	0,	11},
 	{"",	"sb-volume",	10,	10},
+	// {"",	"sb-updates",	360,	12},
 
 	 {"",	"sb-memory",	5,	14},
 	// {"Mem:", "free -h | awk '/^Mem/ { print $3\"/\"$2 }' | sed s/i//g",	30,		0},
